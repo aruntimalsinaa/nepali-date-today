@@ -58,6 +58,8 @@ export default function App() {
 
 ```
 
+git config --global user.name "aruntimalsinaa"
+git config --global user.email "arun.805421@pmc.tu.edu.np"
 
 
 
